@@ -1,0 +1,4 @@
+mvc\controlador\ControladorNumeros.class
+mvc\MvcArray.class
+mvc\vista\VistaNumeros.class
+mvc\modelo\Numeros.class
